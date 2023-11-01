@@ -1,0 +1,2 @@
+public interface ForcasteDisplay imple{
+}
